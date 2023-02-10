@@ -24,6 +24,10 @@ What is Phonepe Pulse?
   
     > `git clone`- command is used to create a copy of a specific repository or branch within a repository.By cloning with Git,we get the entire repository - all
       files, all branches, and all commits.
+    
+     ![Screenshot 2023-02-11 005745](https://user-images.githubusercontent.com/118071774/218180305-e1bee8c0-d16b-40a7-82d4-f02840e31a45.png)
+
+     
       
   - Once cloning is done, the entire data in the repository will be copied in to our local system which we can easily access.
  
