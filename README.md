@@ -32,9 +32,13 @@ What is Phonepe Pulse?
   - Once cloning is done, the entire data in the repository will be copied in to our local system which we can easily access.
  
  Consolidate the data shared in the file in to DataFrames using pandas
+ 
  Load the DataFrames in to SQL by creating a Seperate Database.
+ 
  Create tables for each dataframe and store in it.
+ 
  Query to extract the required details from different tables
+ 
  Once extracted the required details , visualize the same using geographic maps.
    
    
